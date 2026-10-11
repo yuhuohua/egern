@@ -4,8 +4,8 @@ description: |-
   监控电信话费与流量信息。接口由贰月红大佬提供，感谢贰月红大佬。
   组件渲染直接搬运@Hantaoz的中国移动组件
   【配置说明】
-  需在环境变量中手动添加值：CT_ACCOUNT
-  账号格式: 手机号:服务密码:androidId
+  需在环境变量中手动添加名称：CT_ACCOUNT
+  值: 手机号:服务密码:androidId
   示例: 18888888888:123456:a60c************
   androidId 复制下面链接获取:
   https://telecom.nufe.ccwu.cc
